@@ -1,0 +1,118 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/engine.cpp
+tinyxml.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxml.h
+iostream
+-
+fstream
+-
+stdio.h
+-
+
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/engine.h
+tinyxml.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxml.h
+iostream
+-
+fstream
+-
+stdio.h
+-
+
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/main.cpp
+GLUT/glut.h
+-
+GL/glew.h
+-
+GL/glut.h
+-
+tinyxml.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxml.h
+engine.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/engine.h
+math.h
+-
+stdio.h
+-
+engine.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/engine.h
+fstream
+-
+iostream
+-
+string
+-
+sstream
+-
+algorithm
+-
+iterator
+-
+vector
+-
+stdlib.h
+-
+IL/il.h
+-
+
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinystr.cpp
+tinystr.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinystr.h
+
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinystr.h
+assert.h
+-
+string.h
+-
+
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxml.cpp
+ctype.h
+-
+sstream
+-
+iostream
+-
+tinyxml.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxml.h
+
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxml.h
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+string
+-
+iostream
+-
+sstream
+-
+tinystr.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinystr.h
+
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxmlerror.cpp
+tinyxml.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxml.h
+
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxmlparser.cpp
+ctype.h
+-
+stddef.h
+-
+tinyxml.h
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/tinyxml.h
+windows.h
+-
+

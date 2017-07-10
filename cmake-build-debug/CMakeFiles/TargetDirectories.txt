@@ -1,0 +1,3 @@
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vitor/Documentos/Univ/3ºAno/2ºSemestre/Computação Gráfica/Trabalho Prático/4P/Fase4_Grupo7/Codigo/cmake-build-debug/CMakeFiles/motor.dir

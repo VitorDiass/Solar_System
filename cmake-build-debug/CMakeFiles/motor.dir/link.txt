@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/motor.dir/main.cpp.o CMakeFiles/motor.dir/engine.cpp.o CMakeFiles/motor.dir/tinystr.cpp.o CMakeFiles/motor.dir/tinyxml.cpp.o CMakeFiles/motor.dir/tinyxmlerror.cpp.o CMakeFiles/motor.dir/tinyxmlparser.cpp.o  -o motor -rdynamic -lGLEW -lIL -lGLU -lGL -lglut -lXmu -lXi 
